@@ -1,4 +1,11 @@
-# Final Year Project
+<h1 align='center'> Final Year Project</h1>
+
+## Contributions
+Made by -
+<br> Sagarika Hembram, Soumik Sil, Shaheer Alam, Sayan Mandal, Neha Rani
+<br><br>Supervised by -
+<br> Dr. Suman Paul
+
 ## Objective
 This project report makes an analysis of the effects that QoS impairments such as delay, jitter and packet loss have in the quality of VoIP calls. We will use Machine Learning approach to solve this problem by developing a Machine Learning model which optimizes QoS parameters to enhance the quality of VoIP calls.
 
