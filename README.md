@@ -11,3 +11,19 @@ This project report makes an analysis of the effects that QoS impairments such a
 - Finally, we predicted the MOS values based on the optimal machine learning model. 
 
 ![image](https://user-images.githubusercontent.com/76590161/169748827-5f95d629-b45c-4e19-849c-2c7e27d2906b.png)
+
+## Tools used
+<p>
+  <img src= 'https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+  <img src= 'https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white'>
+  
+  <br>
+  <img src= 'https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white'>
+  <img src= 'https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white'>
+  
+</p>
