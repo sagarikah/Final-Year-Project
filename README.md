@@ -1,4 +1,4 @@
-<h1 align='center'> Final Year Project</h1>
+<h1 align='center'> Study and Analysis of QoS parameters in Cloud Networking Platform (Final Year Project)</h1>
 
 ## Contributions
 Made by -
